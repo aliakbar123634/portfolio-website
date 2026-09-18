@@ -398,7 +398,7 @@ function About() {
 
               <div className="about-photo-frame">
                 <img
-                  src="ali-portfolio/public/images/ali-profile.jpg"
+                  src="/images/ali-profile.jpg"
                   alt="Ali Akbar Shah"
                   className="about-photo"
                 />
