@@ -242,9 +242,9 @@ function Hero() {
           <p className="hero-intro">Hello, I'm</p>
 
           <h1>
-            Ali Akbar
+            Muhammad Ali
             <br />
-            <span className="gradient-text">Shah.</span>
+            <span className="gradient-text">Akbar.</span>
           </h1>
 
           <h2>
@@ -431,11 +431,11 @@ function About() {
               <div className="photo-card-bottom">
                 <div>
                   <span className="photo-name">
-                    Ali Akbar Shah
+                    Muhammad Ali Akbar
                   </span>
 
                   <span className="photo-role">
-                    Backend Engineer
+                    AI Automation Engineer & Full-Stack Developer
                   </span>
                 </div>
 
@@ -479,7 +479,7 @@ function About() {
             </h3>
 
             <p className="about-description">
-              I'm Ali Akbar Shah, a Backend Engineer,
+              I'm Muhammad Ali Akbar, a Backend Engineer,
               AI Automation Engineer, and Full-Stack Developer
               with 3 years of professional experience at
               Enigmatix.
