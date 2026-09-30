@@ -138,7 +138,7 @@ Add the EmailJS environment variables in your Vercel project settings before dep
 ## 📬 Connect With Me
 
 - **Email:** [saliakbar790@gmail.com](mailto:saliakbar790@gmail.com)
-- **LinkedIn:** [Ali Akbar Shah](https://www.linkedin.com/in/ali-akbar-shah-802661358/)
+- **LinkedIn:** [Ali Akbar Shah](https://www.linkedin.com/in/ali-akbar-shah/)
 - **GitHub:** [aliakbar123634](https://github.com/aliakbar123634)
 - **WhatsApp:** [Message me](https://wa.me/923286353383)
 

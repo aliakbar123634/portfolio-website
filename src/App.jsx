@@ -282,7 +282,7 @@ function Hero() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/ali-akbar-shah-802661358/"
+              href="https://www.linkedin.com/in/ali-akbar-shah/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
@@ -435,7 +435,7 @@ function About() {
                   </span>
 
                   <span className="photo-role">
-                    AI Automation Engineer & Full-Stack Developer
+                    Full-Stack Engineer
                   </span>
                 </div>
 

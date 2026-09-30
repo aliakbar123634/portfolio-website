@@ -742,7 +742,7 @@ import "./Contact.css";
 
 const EMAIL = "saliakbar790@gmail.com";
 const LINKEDIN_URL =
-  "https://www.linkedin.com/in/ali-akbar-shah-802661358/";
+  "https://www.linkedin.com/in/ali-akbar-shah/";
 const WHATSAPP_NUMBER = "923286353383";
 
 const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
